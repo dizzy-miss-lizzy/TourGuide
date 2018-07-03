@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Tour Newport</string>
+    <string name="details_activity">Details</string>
+
+    <!-- Image descriptions -->
+    <string name="image_description">Newport image</string>
+    <string name="image_background_description">Background for opaque image</string>
+
+    <!-- Sights Fragment -->
+    <string name="yaquina_bridge_name">Yaquina Bay Bridge</string>
+    <string name="yaquina_bridge_distance">Yaquina Bay, Newport</string>
+    <string name="yaquina_bridge_details">Historic bridge built in 1934</string>
+    <string name="yaquina_bridge_description">Being one of the most photographed bridges designed by Conde McCullough,
+        it took 2 years and over $1 million to build. It is constructed with both steel and concrete arches and is tall
+        enough for most boats to pass underneath. Art Deco and Art Monderne design motifs and Gothic architecture inspired
+        the style of the bridge. At each end of the bridge are pedestrian plazas with stairways accessing observation areas.</string>
+    <string name="yaquina_bridge_location">1950 Southwest Coast Highway, Newport, OR 97365</string>
+
+    <string name="yaquina_head_name">Yaquina Head Lighthouse</string>
+    <string name="yaquina_head_distance">3.8 miles north of Newport</string>
+    <string name="yaquina_head_detail">Oregon\'s tallest lighthouse in operation since 1873</string>
+    <string name="yaquina_head_description">Standing at 93 feet, Yaquina Head was built in Paris of 1868 using more than
+        370,000 bricks. Today, it is still actively shining its rotating light using the original French lens.
+        During World War II, 17 servicemen were stationed at Yaquina Head to look out for enemy ships. The lighthouse is open
+        for regular tours year round. See blm.gov/learn/interpretive-centers/yaquina for more details.</string>
+    <string name="yaquina_head_location">750 Northwest Lighthouse Drive, Newport, OR 97365</string>
+
+    <string name="yaquina_bay_name">Yaquina Bay Lighthouse</string>
+    <string name="yaquina_bay_distance">1.2 miles south of Newport</string>
+    <string name="yaquina_bay_detail">Oregon\'s only wooden lighthouse in operation for 3 years</string>
+    <string name="yaquina_bay_description">Built in 1871 soon after the founding of Newport, it was active for 3 years
+        until Yaquina Head was built. Standing at 39.6 feet, it is the only Oregon lighthouse with the living quarters
+        attached to the light. It was scheduled for demolition in 1946, but after a long battle it was recongized as a
+        historical site. Self-guided tours are free and donations are accepted. See yaquinalights.org for hours.</string>
+    <string name="yaquina_bay_location">North End of Yaquina Bay, Newport, OR 97365-1347</string>
+
+    <string name="yaquina_beach_name">Yaquina Bay State Recreation Site</string>
+    <string name="yaquina_beach_distance">1.2 miles south of Newport</string>
+    <string name="yaquina_beach_detail">Grassy area to picnic near Yaquina Bay Lighthouse with beach access</string>
+    <string name="yaquina_beach_description">Established in 1948, this site includes picnic facilities, a forested bluff,
+        a fisherman\'s memorial shrine, and beach access. It is great for swimming, fishing, and hiking as well.</string>
+    <string name="yaquina_beach_location">Yaquina Bay State Recreation Site, Newport, OR 97365</string>
+
+    <string name="foulweather_name">Cape Foulweather</string>
+    <string name="foulweather_distance">11 miles north of Newport</string>
+    <string name="foulweater_detail">Panoramic views where storm winds can reach 100 mph</string>
+    <string name="foulweather_description">Named by Captain James Cook in 1778 on a day of inclement weather,
+        this 500-foot basalt can be seen from Otter Crest State Scenic Viewpoint. Nearby are Otter Crest, Devil\'s
+        Punchbowl, Moolack and Beverly beaches, Gull Rock and Yaquina Head.</string>
+    <string name="foulweater_location">4905 Otter Crest Loop, Depoe Bay, OR 97341</string>
+
+    <string name="depoe_bay_name">Depoe Bay</string>
+    <string name="depoe_bay_distance">13 miles north of Newport</string>
+    <string name="depoe_bay_detail">World\'s smallest naviagable harbor</string>
+    <string name="depoe_bay_descrption">Home to 1,400 residents, Depoe Bay is right against the ocean, a sea wall running almost the
+    whole length of town. Here, you can watch waves crash against the "spouting horn" rock formations or watch for whales. A Whale
+    Watching Center provides an indoor lookout and information about when the whales are passing through. On the other side, the harbor
+    is home to charter fishing and whale-watching boats, and on land, various shops and restaurants line Highway 101.</string>
+    <string name="depoe_bay_location">Oregon Coast Highway, Depoe Bay, OR 97341</string>
+
+    <string name="ocean_shore_name">Ocean Shore State Recreation Area</string>
+    <string name="ocean_shore_distance">0.5 miles west of Newport</string>
+    <string name="ocean_shore_detail">Beach access with hiking trails, tide pools and picnic areas</string>
+    <string name="ocean_shore_description">An oceanfront park that offers hiking and picnic areas, as well as tide
+        pools and wildlife viewing. The entrance is wheelchair accessible and amenities are good for kids. This beach
+        is also great for flying kites.</string>
+    <string name="ocean_shore_location">Ocean Shore State Recreation Area, Newport, OR 97365</string>
+
+    <!-- Activities Fragment -->
+    <string name="aquarium_name">Oregon Coast Aquarium</string>
+    <string name="aquarium_distance">2.2 miles south of Newport in South Beach</string>
+    <string name="aquarium_detail">A world class facility showcasing\ndeep sea creatures</string>
+    <string name="aquarium_description">Rated as one of the nation\'s top 10 aquariums, Oregon Coast Aquarium has indoor
+    and outdoor exhibits with various animals. Paths lead you through the octopus cave, sea aviary, and viewing pools
+    where otters, seals, and sea lions reside. The "Passages of the Deep" exhibit contains an underwater acrylic tunnel
+    where visitors are surrounded by sharks, bat rays, and more. Open pools are available for visitors to experience
+        the touch of coral and reef-residing creatures. See aquarium.org for more details.</string>
+    <string name="aquarium_location">2820 Southeast Ferry Slip Road, Newport, OR 97365</string>
+
+    <string name="marine_tours_name">Marine Discovery Tours</string>
+    <string name="marine_tours_distance">Town of Newport</string>
+    <string name="marine_tours_detail">Whale watching and sea life boat tours</string>
+    <string name="marine_tours_description">Through the months of March and October, daily tours are offered for Whale Watching
+    and Sea Life Cruises. Being family owned and operated, guides provide a fun narration about the ocean, Yaquina Bay and River,
+    while looking out for wildlife ranging from harbor porpoises to bald eagles. See marinediscoverytours.com for more details. </string>
+    <string name="marine_tours_location">345 Southwest Bay Boulevard, Newport, OR 97365</string>
+
+    <string name="tradewinds_name">Tradewinds Charters</string>
+    <string name="tradewinds_distance">Depoe Bay</string>
+    <string name="tradewinds_detail">Whale watching and deep sea fishing tours</string>
+    <string name="tradewinds_description">Located right across the street from the Whale Watching Center, Tradewinds Charters
+    have been in operation since 1938. Tours provided are whale watching, sportfishing, bird watching, and ecology tours. Boats are modern
+    and fully equipped, along with an experienced, knowledgeable, and friendly captains and crew.
+    See tradewindscharters.com for more details.</string>
+    <string name="tradewinds_location">118 Highway 101, Depoe Bay, OR 97341</string>
+
+    <string name="winery_name">Depoe Bay Winery</string>
+    <string name="winery_distance">Depoe Bay</string>
+    <string name="winery_detail">Wine tasting and sales on the waterfront</string>
+    <string name="winery_description">Open 10-6 every day, Depoe Bay Winery offers a wide selection of wine tasting alongside the oceanfront.
+    The ceiling of the shop is covered with hanging dollar bills, all signed for local charities along the Central Coast. Concerts, BBQs and pig
+    roasts are often on the agenda at the winery. Wine can be shipped to your door, some specials including free shipping.
+    See depoebaywinery.com for more details.</string>
+    <string name="winery_location">22 Southeast Highway 101, Depoe Bay, OR 97341</string>
+
+    <string name="dockside_name">Dockside Charters</string>
+    <string name="dockside_distance">Depoe Bay</string>
+    <string name="dockside_detail">Largest charter fishing fleet on the Oregon Coast</string>
+    <string name="dockside_description">Tuna fishing, whale watching, and sight seeing cruises are offered daily. Boats are clean and maintained,
+    providing comfortable adventures. Depending on the season, fishing trips offer bottom fishing for Ling Cod and Rock Fish, Halibut, Salmon, and
+    Albacore Tuna. Dungeness Crab fishing options are offered as well. See docksidedepoebay.com for more details.</string>
+    <string name="dockside_location">270 Coast Guard Drive, Depoe Bay, OR 97341</string>
+
+    <!-- Lodging Fragment -->
+    <string name="anchor_pier_name">Anchor Pier Lodge</string>
+    <string name="anchor_pier_distance">Town of Newport</string>
+    <string name="anchor_pier_detail">Waterfront rooms with private decks and fireplaces</string>
+    <string name="anchor_pier_description">Located along Newport\'s Historic Bayfront, guest rooms are spacious with relaxing nautical-themed decor
+        and private decks overlooking the harbor. Guests are offered walk-in showers or spa rooms with jet tubs and showers, along with euro-top
+    mattresses. Rooms contain fireplaces, microwaves, a coffee and tea center, mini-fridge, hair dryers and bathing supplies, Wi-Fi, and cable TV.
+    See anchorpierlodge.com for more details.</string>
+    <string name="anchor_pier_location">345 Southwest Bay Boulevard, Newport, OR 97365</string>
+
+    <string name="rv_park_name">Port of Newport RV Park and Marina</string>
+    <string name="rv_park_distance">2.5 miles south of Newport in South Beach</string>
+    <string name="rv_park_detail">Open year round with a view of Yaquina Bridge with full services</string>
+    <string name="rv_park_description">If trailering is your vacationing style, visit the Port of Newport RV park. Right along the water of the bay,
+    visitors have a close view of Yaquina Bay Bridge and a short walk to the marina. Full hook-ups are provided for all 143 spaces, many designed for big
+    rigs. Showers, laundry rooms are provided, as well as limited Wi-Fi. Oregon Coast Aquarium, Hatfield Marine Science Center, Newport Marina Store and Charters
+    and Rogue Brewery and Rogue Distillery are all within walking distance. See portofnewport.com for more details.</string>
+    <string name="rv_park_location">2120 Southeast Marine Science Drive, Newport, OR 97365</string>
+
+    <string name="resort_name">Embarcadero Resort Hotel and Marina</string>
+    <string name="resort_distance">1 mile east of Newport</string>
+    <string name="resort_detail">Resort with views of Yaquina Bay, a restaurant and indoor pool</string>
+    <string name="resort_description">Tucked away at the end of Newport\’s Historic Bayfront, Embarcadero Resort offers 60 well-appointed guest rooms and suites
+    with private balconies overlooking Yaquina Bay. For boaters, a private marina offers charter fishing and boat rentals, as well as a private crab dock with
+    crab boat and pot rentals. Food and drink amenities include a bar and free BBQ facilities. For those that want to relax, a free spa and wellness center is
+    offered, with two outdoor spas, sauna, and fitness center. An indoor salt water pool is also on site. See embarcaderoresort.com/en-gb for more details.</string>
+    <string name="resort_location">1000 Southeast Bay Boulevard, Newport, OR 97365</string>
+
+    <!-- Food Fragment -->
+    <string name="ocean_bleu_name">Ocean Bleu at Gino\'s</string>
+    <string name="ocean_bleu_distance">Town of Newport</string>
+    <string name="ocean_bleu_detail">Seafood cafe and fish market sourced from local fish</string>
+    <string name="ocean_bleu_description">In the heart of Newport\'s Historic Bayfront is located this cozy restaurant serving fresh local fish. Popular for their
+    popcorn shrimp, Ocean Bleu serves seafood such as scallops, clams, crab, shrimp, fish and chips, as well as soups, salads, and sandwiches of many varieties.
+    Desserts offered include Gino\'s cheesecake, molten lava chocolate cake, and berry cobbler. Outdoor seating is available.
+    See oceanbleuseafoods.com for more details.</string>
+    <string name="ocean_bleu_location">808 Southwest Bay Boulevard, Newport, OR 97365</string>
+
+    <string name="rogue_name">Rogue Ales and Spirits Brewery</string>
+    <string name="rogue_distance">1.9 miles south of Newport</string>
+    <string name="rogue_detail">Serves handcrafted beers and hamburgers in a family-friendly setting</string>
+    <string name="rogue_description">Tour the Rogue Brewery Distillery while walking to the upstairs restaurant that overlooks the
+    Port of Newport Marina. The menu serves meals such as hamburgers, fish and chips, pizza, sandwiches, soup and salad, and of course,
+    a wide variety of beer. Vegetarian and vegan meals are offered. See rogue.com for more details.</string>
+    <string name="rogue_location">2320 Southeast Marine Science Drive, Newport, OR 97365</string>
+
+    <string name="sea_hag_name">Gracie\'s Sea Hag</string>
+    <string name="sea_hag_distance">Depoe Bay</string>
+    <string name="sea_hag_detail">Cozy seafood restaurant with bar and music</string>
+    <string name="sea_hag_description">Being a local favorite in Depoe Bay since 1963, the Sea Hag provides a nautical atmosphere
+    while serving fish and chips, clams, soup and salad, pastas, sandwiches, and more of many varieties. A bar featuring live music
+    is separated from the main restaurant. See theseahag.com for more details.</string>
+    <string name="sea_hag_location">58 Highway 101, Depoe Bay, OR 97341</string>
+
+    <!-- Events Fragment -->
+    <string name="market_name">Newport Saturday Farmers Market</string>
+    <string name="market_distance">Town of Newport</string>
+    <string name="market_detail">Features 70 vendors for seasonal produce, art and live music</string>
+    <string name="market_description">Since 1978, this market has been offering a variety of items year-round. It features 70 vendors
+    offering seasonal produce, art, fresh flowers, plants, jewelry, photography, hot food, fresh pastries, honey, salsas, coffee, crafts,
+    and live music. Provided with Oregon\'s abundant growing season, farmers bring diverse, high-quality local produce, meat, eggs, and honey.
+    The outdoor summer and fall market is every Saturday from May 12th to October and is located on the corner of Highway 101 and Angle St.
+    The indoor winter and spring market is every Saturday from November to April and is located at the Lincoln County Fairgrounds Exhibit Hall.
+    See newportfarmersmarket.org for more details.</string>
+    <string name="market_location">101 and Southwest Angle Street, Newport, OR 97365\nor 633 Northeast 3rd Street, Newport, OR 97365</string>
+
+    <string name="whale_name">Whale Watching</string>
+    <string name="whale_distance">Depoe Bay</string>
+    <string name="whale_detail">Visit the Whale Watching Center during migration peaks</string>
+    <string name="whale_description">Whales can be seen along the Oregon Coast year-round, but twice a year about 20,000 gray whales make their
+    journey along the coast. During the months of late December and early January, the southward migration peak takes the whales from the Bering
+    and Chukchi seas near Alaska down to Baja California, Mexico. The second migration peak begins in late March, where whales, along with babies
+    born in the warm seas, begin their journey back to Alaska. During these peaks, Oregon State Parks offers Whale Watching Week. At each whale
+    watching site, volunteers are available to provide information to visitors and help identify whales through the use of spotting scopes. See
+    whalespoken.org for more details.</string>
+    <string name="whale_location">119 Highway 101, Depoe Bay, OR 97341</string>
+
+    <string name="washington_name">Lady Washington</string>
+    <string name="washington_distance">Port of Newport</string>
+    <string name="washington_detail">Keep a lookout for this historic ship sailing into town</string>
+    <string name="washington_description">Though only a replica, Lady Washington continues to bring interest to the original historic ship that sailed
+    the seas in the 18th century. After the Revolutionary War in 1787, she was refitted for a trading voyage around Cape Horn. A year later,
+    she became the first American ship to reach land on the west coast and sail to Honolulu, Hong Kong and Japan. Here, she was used for black pearl and sandalwood
+    trade. Ironically, centuries later, the replica was used in Pirates of the Caribbean: The Curse of the Black Pearl, as well as Star Trek: Generations,
+    Once Upon a Time, and Revolution. Upon construction of the Lady Washington replica, historians researched the ship thoroughly, while skilled shipwrights
+    built the ship, according to tradition. Don\'t forget to check out her sister ship, the Hawaiian Chieftain. Visit historicalseaport.org for more information,
+    including times and locations.</string>
+    <string name="washington_location">600 Southeast Bay Boulevard Newport, OR 97365</string>
+
+</resources>
